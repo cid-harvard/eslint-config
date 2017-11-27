@@ -1,4 +1,4 @@
-const eslintCommand = 'eslint index.js --config index.js';
+const eslintCommand = 'eslint {index.js,base.js} --config base.js';
 
 module.exports = {
   scripts: {
