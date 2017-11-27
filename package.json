@@ -1,6 +1,6 @@
 {
   "name": "@cid-harvard/eslint-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Standard base eslint config for the development team at Harvard CID",
   "keywords": [
     "eslint",
@@ -9,7 +9,8 @@
   "license": "MIT",
   "author": "Huy Nguyen <huy@huy-nguyen.com> (https://www.huy-nguyen.com/)",
   "files": [
-    "index.js"
+    "index.js",
+    "base.js"
   ],
   "main": "index.js",
   "repository": {
