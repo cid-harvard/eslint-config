@@ -1,0 +1,32 @@
+{
+  "name": "@cid-harvard/eslint-config",
+  "version": "0.1.0",
+  "description": "Standard base eslint config for the development team at Harvard CID",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "MIT",
+  "author": "Huy Nguyen <huy@huy-nguyen.com> (https://www.huy-nguyen.com/)",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cid-harvard/eslint-config.git"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "babel-eslint": ">=8.0.2",
+    "eslint": ">=4.12.0",
+    "eslint-plugin-jest": ">=21.3.2",
+    "eslint-plugin-react": ">=7.5.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "8.0.2",
+    "eslint": "4.12.0",
+    "eslint-plugin-jest": "21.3.2",
+    "eslint-plugin-react": "7.5.1"
+  }
+}
